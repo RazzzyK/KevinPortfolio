@@ -1,0 +1,50 @@
+.navbar{
+    padding-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: var(--thecolor);
+    text-decoration: none;
+    text-shadow: 1px 1px black;
+}
+a:hover{
+    color: var(--primary);
+    text-shadow: 1px 1px black;
+}
+
+h2{
+    /* text-decoration-line: underline; */
+    text-decoration-thickness: 5px;
+    font-family: "Lucida Handwriting";
+    text-shadow: 1px 1px black;
+}
+
+.intro{
+    padding-top: 50px;
+    text-shadow: 1px 1px black;
+}
+
+.format{
+    padding-top: 10vh;
+    width: 50vw;
+    color: rgba(209, 163, 119, 0.673)
+}
+
+.btn{
+    margin-top: 100px;
+    left: 50%; /* Center the button horizontally */
+    justify-items: center;
+    justify-content: center;
+    justify-self: center; /* Center the button horizontally */
+    bottom: 50px;
+    color: var(--thecolor);
+    border-color: var(--thecolor);
+    border-radius: 10px;
+}
+.btn:hover {
+    background-color: transparent;
+    color: var(--primary);
+}

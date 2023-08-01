@@ -1,0 +1,47 @@
+*{
+    color: aliceblue;
+}
+
+form{
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 50%, rgba(255, 255, 255, 0) 100%),
+                  linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 50%, rgba(255, 255, 255, 0) 100%);
+    padding: 12px;
+    border-radius: 2px;
+    margin-bottom: 100px;
+}
+
+button{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.socials{
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 50%, rgba(255, 255, 255, 0) 100%),
+                  linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 50%, rgba(255, 255, 255, 0) 100%);
+    padding: 12px;
+    border-radius: 2px;
+    margin-bottom: 100px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-label{
+    color: var(--thecolor);
+}
+
+.btn{
+    background-color: transparent;
+    border-color: var(--thecolor);
+}
+
+.btn:hover{
+    background-color: rgb(78, 78, 78);
+}
