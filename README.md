@@ -2,7 +2,7 @@ I have this currently hosted on AWS Amplify Console on a domain from Route53.
 
 Current Live Link: https://master.d2jymkkhrbzkks.amplifyapp.com/
 
-
+WARNING!!!! NOT MOBILE FRIENDLY!!
 
 
 # Kevinangular
