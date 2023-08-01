@@ -1,3 +1,10 @@
+I have this currently hosted on AWS Amplify Console on a domain from Route53.
+
+Current Live Link: https://master.d2jymkkhrbzkks.amplifyapp.com/
+
+
+
+
 # Kevinangular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
